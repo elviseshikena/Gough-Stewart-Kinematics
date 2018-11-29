@@ -3,6 +3,9 @@
 This repository contains code for simulating a robotic manipulator using MATLAB. The manipulator
 analyzed is a Gough-Stewart manipulator for the proposed use case of thrust vectoring.
 
+## Animation Output
+![Animation](/Code/OUT/MSE429Project.gif)
+
 To cite this repository in publications:
 
     @misc{gskinematics,
